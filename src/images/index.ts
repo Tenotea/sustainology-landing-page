@@ -1,2 +1,11 @@
 export * as IMG_ProductLogo from "./product-logo.svg";
 export * as IMG_EllipseIllustration01 from "./ellipse-illustration-01.svg";
+export * as IMG_EllipseIllustration02 from "./ellipse-illustration-02.svg";
+export * as IMG_CarbonCalculatorIllustration from "./carbon-calculator-illustration.svg";
+export * as IMG_CarbonCreditSupplierIllustration from "./carbon-credit-supplier-illustration.svg";
+export * as IMG_EmitterIndividualIllustration from "./emitter-individual-illustration.svg";
+export * as IMG_EmitterBusinessIllustration from "./emitter-business-illustration.svg";
+export * as IMG_CarbonTokenIllustrationTop from "./carbon-token-illustration-top.svg";
+export * as IMG_CarbonTokenIllustrationRight from "./carbon-token-illustration-right.svg";
+export * as IMG_CarbonTokenIllustrationBottom from "./carbon-token-illustration-bottom.svg";
+export * as IMG_RobotArmIllustration from "./robot-arm-illustration.svg";

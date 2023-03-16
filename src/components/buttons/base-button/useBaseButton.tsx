@@ -6,7 +6,7 @@ export default function useBaseButton() {
     "rounded-full",
   ];
   const gradientClassList = [
-    "rounded-md",
+    "rounded-lg",
     "text-app-primary-text",
     "bg-app-background-green",
     "bg-gradient-button",

@@ -1,4 +1,5 @@
 import Image from "next/image";
+import HomeHeroChunk from "~/chunks/home-template/home-hero-chunk/HomeHeroChunk";
 import GuestNavigation from "~/components/navigations/guest-navigation/GuestNavigation";
 import { IMG_EllipseIllustration01 } from "~/images";
 
@@ -9,6 +10,7 @@ export default function HomeTemplate() {
         <Image src={IMG_EllipseIllustration01} alt="" height={350} />
       </div>
       <GuestNavigation />
+      <HomeHeroChunk />
     </main>
   );
 }

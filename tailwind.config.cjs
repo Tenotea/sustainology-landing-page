@@ -11,6 +11,7 @@ const config = {
           "background-green": "#071529",
           "primary-green": "#37F2AD",
           "primary-text": "#FAFAFA",
+          "neutral-grey": "#718CAF",
         },
       },
       backgroundImage: {

@@ -6,6 +6,7 @@ export type BaseButtonProps = Omit<
 > & {
   type?: "submit" | "reset" | "button" | undefined;
   tw?: string;
-  outlined?: boolean | { theme: string };
+  applyOutlined?: boolean | { theme: string };
   applyGradient?: boolean;
+  applyGradient2?: boolean;
 };
