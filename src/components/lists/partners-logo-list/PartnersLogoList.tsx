@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { IMG_ProductLogo } from "~/images";
 import usePartnersLogoList from "./usePartnersLogoList";
 
 export default function PartnersLogoList() {
@@ -10,7 +9,7 @@ export default function PartnersLogoList() {
         <li key={partner.id}>
           <Image
             src={partner.logo}
-            alt=""
+            alt={partner.name}
             className="h-[25px] w-auto sm:h-[20px] md:h-[25px]"
           />
         </li>

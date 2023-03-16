@@ -7,10 +7,10 @@ import {
 
 export default function usePartnersLogoList() {
   const partners = [
-    { id: 1, logo: IMG_PartnerCoinbase },
-    { id: 2, logo: IMG_PartnerBinance },
-    { id: 3, logo: IMG_PartnerCoinMarketCap },
-    { id: 4, logo: IMG_PartnerBitfinex },
+    { id: 1, logo: IMG_PartnerCoinbase, name: "coinbase" },
+    { id: 2, logo: IMG_PartnerBinance, name: "binance" },
+    { id: 3, logo: IMG_PartnerCoinMarketCap, name: "coin market cap" },
+    { id: 4, logo: IMG_PartnerBitfinex, name: "bitfinex" },
   ];
   return { partners };
 }
