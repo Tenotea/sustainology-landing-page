@@ -9,3 +9,7 @@ export * as IMG_CarbonTokenIllustrationTop from "./carbon-token-illustration-top
 export * as IMG_CarbonTokenIllustrationRight from "./carbon-token-illustration-right.svg";
 export * as IMG_CarbonTokenIllustrationBottom from "./carbon-token-illustration-bottom.svg";
 export * as IMG_RobotArmIllustration from "./robot-arm-illustration.svg";
+export * as IMG_PartnerBinance from "./partner-binance.png";
+export * as IMG_PartnerBitfinex from "./partner-bitfinex.png";
+export * as IMG_PartnerCoinbase from "./partner-coinbase.png";
+export * as IMG_PartnerCoinMarketCap from "./partner-coint-market-cap.svg";
