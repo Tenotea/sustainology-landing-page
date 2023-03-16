@@ -1,4 +1,5 @@
 import Head from "next/head";
+import HomeTemplate from "~/templates/home-template/HomeTemplate";
 
 export default function Home() {
   return (
@@ -11,7 +12,7 @@ export default function Home() {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="min-h-screen bg-app-background-green"></main>
+      <HomeTemplate />
     </>
   );
 }
