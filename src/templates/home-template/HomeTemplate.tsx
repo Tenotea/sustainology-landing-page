@@ -1,4 +1,6 @@
 import Image from "next/image";
+import HomeBenefitsChunk from "~/chunks/home-template/home-benefits-chunk/HomeBenefitsChunk";
+import HomeCarbonCreditsBenefitsChunk from "~/chunks/home-template/home-carbon-credits-benefits-chunk/HomeCarbonCreditsBenefitsChunk";
 import HomeHeroChunk from "~/chunks/home-template/home-hero-chunk/HomeHeroChunk";
 import HomePartnersChunk from "~/chunks/home-template/home-partners-chunk/HomePartnersChunk";
 import GuestNavigation from "~/components/navigations/guest-navigation/GuestNavigation";
@@ -13,6 +15,8 @@ export default function HomeTemplate() {
       <GuestNavigation />
       <HomeHeroChunk />
       <HomePartnersChunk />
+      <HomeBenefitsChunk />
+      <HomeCarbonCreditsBenefitsChunk />
     </main>
   );
 }

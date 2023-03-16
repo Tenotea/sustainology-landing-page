@@ -13,3 +13,13 @@ export * as IMG_PartnerBinance from "./partner-binance.png";
 export * as IMG_PartnerBitfinex from "./partner-bitfinex.png";
 export * as IMG_PartnerCoinbase from "./partner-coinbase.png";
 export * as IMG_PartnerCoinMarketCap from "./partner-coint-market-cap.svg";
+export * as IMG_BenefitIntegrityIllustration from "./benefit-integrity-illustration.svg";
+export * as IMG_BenefitOpenAccessIllustration from "./benefit-open-access-illustration copy.svg";
+export * as IMG_BenefitProgrammableIllustration from "./benefit-programmable-illustration.svg";
+export * as IMG_BenefitTransparencyIllustration from "./benefit-transparency-illustration.svg";
+export * as IMG_CarbonOffsettingIllustration from "./carbon-offsetting-illustration.svg";
+export * as IMG_CarbonOffsettingSingleIllustration from "./carbon-offsetting-single-illustration.svg";
+export * as IMG_BenefitMarketOpportunityIllustration from "./benefit-market-oppurtunity-illustration.svg";
+export * as IMG_BenefitIncreasedApplicationIllustration from "./benefit-increased-application-illustration.svg";
+export * as IMG_BenefitFinancialAccessibilityIllustration from "./benefit-financial-accessibility-illustration.svg";
+// export * as IMG_ from ''

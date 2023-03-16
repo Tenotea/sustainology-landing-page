@@ -24,7 +24,7 @@ export default function HomeHeroChunk() {
       <MaxWidthContainer>
         <section className="mt-20 grid gap-20 sm:mt-28 lg:grid-cols-2 lg:gap-10">
           <div className="relative z-[1]">
-            <CaptionChip>the world&apos;s first company to </CaptionChip>
+            <CaptionChip>The World&apos;s First Company To </CaptionChip>
             <h1 className="mb-6 mt-2 max-w-xl text-3xl font-semibold leading-snug text-white sm:mb-8 sm:text-4xl sm:leading-snug xl:text-5xl xl:leading-normal">
               Offset Carbon Emissions Using Innovative{" "}
               <span className="text-app-primary-green">Blockchain</span>{" "}
