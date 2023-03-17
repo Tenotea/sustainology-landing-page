@@ -8,7 +8,7 @@ import useHomeMarketProfit from "./useHomeMarketProfit";
 export default function HomeMarketProfit() {
   const { tabOptions, activeTab, handleTabChange } = useHomeMarketProfit();
   return (
-    <section className="mt-20">
+    <section className="mt-40">
       <MaxWidthContainer>
         <ContentTabNavigation
           options={tabOptions}

@@ -6,7 +6,7 @@ import { IMG_CarbonOffsettingSingleIllustration } from "~/images";
 
 export default function HomeCarbonCreditsBenefitsChunk() {
   return (
-    <section className="mt-16 text-white lg:mt-28">
+    <section className="mt-40 text-white">
       <MaxWidthContainer>
         <CaptionChip>WHY TOKENIZE CARBON?</CaptionChip>
 

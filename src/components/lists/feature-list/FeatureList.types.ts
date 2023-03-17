@@ -1,0 +1,1 @@
+export type FeatureListProps = null;

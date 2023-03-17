@@ -6,7 +6,7 @@ import { IMG_CarbonOffsettingIllustration } from "~/images";
 
 export default function HomeBenefitsChunk() {
   return (
-    <section className="mt-16 text-white lg:mt-28">
+    <section className="mt-40 text-white">
       <MaxWidthContainer>
         <CaptionChip>WHY WORK WITH US?</CaptionChip>
         <div className="mt-6 mb-8 grid lg:mb-5 lg:mt-10 lg:grid-cols-2 lg:gap-16">

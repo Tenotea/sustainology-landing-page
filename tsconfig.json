@@ -28,6 +28,6 @@
     "**/*.tsx",
     "**/*.cjs",
     "**/*.mjs"
-  ],
+, "src/icons/ic-feature-tick.svg"  ],
   "exclude": ["node_modules"]
 }

@@ -6,7 +6,7 @@ export default function HomeAuditChecksChunk() {
   return (
     <section className="mt-36">
       <MaxWidthContainer>
-        <div className="grid grid-cols-2 items-start gap-10">
+        <div className="grid items-start gap-10 lg:grid-cols-2">
           <div className="mt-8">
             <h1 className="mb-12 max-w-xl text-3xl font-semibold leading-snug text-white sm:text-4xl sm:leading-snug">
               Verification <span className="text-app-primary-green">and</span>{" "}
