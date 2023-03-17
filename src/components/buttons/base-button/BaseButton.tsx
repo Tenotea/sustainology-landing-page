@@ -6,9 +6,9 @@ export default function BaseButton(props: BaseButtonProps) {
   return (
     <div
       className={
-        props.applyGradient
+        props.applygradient
           ? "rounded-lg bg-gradient-to-l from-[#37F2AD] to-[#40E2CF] p-[1px]"
-          : props.applyGradient2
+          : props.applygradient2
           ? "rounded-lg bg-gradient-to-l from-[#37F2AD] to-[#2E71FF78] p-[1px]"
           : ""
       }
@@ -16,8 +16,8 @@ export default function BaseButton(props: BaseButtonProps) {
       <button
         {...props}
         className={`w-full py-3 px-5 text-xs
-        ${props.applyGradient || props.applyGradient2 ? gradientClassList : ""}
-        ${props.applyOutlined ? outlinedClassList : ""}
+        ${props.applygradient || props.applygradient2 ? gradientClassList : ""}
+        ${props.applyoutlined ? outlinedClassList : ""}
         ${props.tw || ""}`}
       >
         {props.children}

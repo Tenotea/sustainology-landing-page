@@ -14,7 +14,7 @@ export default function GuestNavigation() {
         <div className="hidden md:block">
           <GuestNavigationMenuList items={navigationItems} />
         </div>
-        <BaseButton applyOutlined tw="max-w-[200px] hidden md:block">
+        <BaseButton applyoutlined="true" tw="max-w-[200px] hidden md:block">
           Launch App
         </BaseButton>
         <button className="text-white md:hidden">

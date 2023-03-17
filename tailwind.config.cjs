@@ -24,6 +24,9 @@ const config = {
       boxShadow: {
         navigation: "0px 0px 8px rgba(223, 223, 223, 0.25)",
       },
+      dropShadow: {
+        input: "0px 0px 2px #94D60050",
+      },
     },
   },
   plugins: [],

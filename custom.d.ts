@@ -6,3 +6,8 @@ declare type SListItem = {
 declare type SRouteListItem = SListItem & {
   path: string;
 };
+
+declare type SFormInputPayload = {
+  field: string;
+  value: string;
+}

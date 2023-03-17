@@ -51,7 +51,7 @@ export default function CarbonCalculator() {
           </div>
         </div>
         <div className="mx-auto max-w-xs">
-          <BaseButton applyGradient2>Launch Calculator</BaseButton>
+          <BaseButton applygradient2="true">Launch Calculator</BaseButton>
         </div>
       </div>
     </div>

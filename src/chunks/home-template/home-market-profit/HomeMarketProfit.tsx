@@ -34,7 +34,7 @@ export default function HomeMarketProfit() {
               />
             </div>
             <div className="max-w-[150px]">
-              <BaseButton applyGradient>Learn more</BaseButton>
+              <BaseButton applygradient="true">Learn more</BaseButton>
             </div>
           </div>
           <div className="hidden lg:block">

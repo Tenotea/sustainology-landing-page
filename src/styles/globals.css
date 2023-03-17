@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.no-autocomplete-background:-webkit-autofill,
+.no-autocomplete-background:-webkit-autofill:hover,
+.no-autocomplete-background:-webkit-autofill:focus,
+.no-autocomplete-background:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px #050f1d inset;
+  /* color: #fafafa !important; */
+  -webkit-text-fill-color: #fafafa;
+  border: #37f2ad3d;
+}

@@ -35,7 +35,7 @@ export default function HomeHeroChunk() {
               Offsetting Solutions
             </p>
             <div className="max-w-max">
-              <BaseButton applyGradient>
+              <BaseButton applygradient="true">
                 <div className="flex items-center gap-2">
                   <span> Get Started</span>
                   <Icon
