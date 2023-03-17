@@ -1,6 +1,5 @@
 import { Icon } from "@iconify/react";
 import TextInput from "~/components/inputs/text-input/TextInput";
-import useFormData from "~/utils/hooks/useFormData";
 import useNewsLetterForm from "./useNewsLetterForm";
 
 export default function NewsLetterForm() {

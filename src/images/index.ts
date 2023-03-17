@@ -27,4 +27,7 @@ export * as IMG_VerificationAndAuditIllustration from "./verification-and-audit-
 export * as IMG_CarbonCardIllustration from "./carbon-card-illustration.png";
 export * as IMG_FracxnLogo from "./fracxn-logo.svg";
 export * as IMG_CarbonConversionIllustration from "./carbon-conversion-illustration.svg";
+export * as IMG_CarbonWorkflowDesktop from "./carbon-workflow-desktop.svg";
+export * as IMG_CarbonWorkflowMobile from "./carbon-workflow-mobile.svg";
+export * as IMG_CapaIllustration from "./capa-illustration.svg";
 // export * as IMG_ from ''

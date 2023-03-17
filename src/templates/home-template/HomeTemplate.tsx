@@ -8,6 +8,7 @@ import HomeCarbonCreditsBenefitsChunk from "~/chunks/home-template/home-carbon-c
 import HomeHeroChunk from "~/chunks/home-template/home-hero-chunk/HomeHeroChunk";
 import HomeMarketProfit from "~/chunks/home-template/home-market-profit/HomeMarketProfit";
 import HomePartnersChunk from "~/chunks/home-template/home-partners-chunk/HomePartnersChunk";
+import HomeWorkFlowChunk from "~/chunks/home-template/home-work-flow-chunk/HomeWorkFlowChunk";
 import GuestFooterNavigation from "~/components/navigations/guest-footer-navigation/GuestFooterNavigation";
 import GuestNavigation from "~/components/navigations/guest-navigation/GuestNavigation";
 import { IMG_EllipseIllustration01 } from "~/images";
@@ -23,6 +24,7 @@ export default function HomeTemplate() {
       <HomePartnersChunk />
       <HomeBenefitsChunk />
       <HomeCarbonBasedToken />
+      <HomeWorkFlowChunk />
       <HomeMarketProfit />
       <HomeCarbonCreditsBenefitsChunk />
       <HomeAuditChecksChunk />
