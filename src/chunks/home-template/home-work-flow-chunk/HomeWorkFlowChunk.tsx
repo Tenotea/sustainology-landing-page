@@ -12,6 +12,7 @@ export default function HomeWorkFlowChunk() {
     <section className="relative mt-28 lg:mt-40">
       <Image
         src={IMG_CapaIllustration}
+        priority
         alt=""
         className="absolute top-0 bottom-0 my-auto w-full lg:-bottom-1/3"
       />

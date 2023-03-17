@@ -34,6 +34,7 @@ export default function HomeBenefitsChunk() {
               <Image
                 src={IMG_CarbonOffsettingIllustration}
                 alt="carbon ofsetting"
+                priority
               />
             </div>
             <div>

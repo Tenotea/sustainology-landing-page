@@ -27,6 +27,7 @@ export default function HomeAuditChecksChunk() {
             <Image
               src={IMG_VerificationAndAuditIllustration}
               alt="verification and audit checks"
+              priority
             />
           </div>
         </div>

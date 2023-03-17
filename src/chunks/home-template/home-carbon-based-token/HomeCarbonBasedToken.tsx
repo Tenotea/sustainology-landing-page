@@ -44,6 +44,7 @@ export default function HomeCarbonBasedToken() {
                 <Image
                   src={IMG_CarbonConversionIllustration}
                   alt="how to make your carbon credits worth more"
+                  priority
                 />
               </div>
             </div>

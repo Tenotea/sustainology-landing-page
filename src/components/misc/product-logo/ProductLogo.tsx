@@ -6,7 +6,7 @@ import { routePaths } from "~/utils/router/routePaths";
 export default function ProductLogo() {
   return (
     <LinkContainer href={routePaths.INDEX}>
-      <Image src={IMG_ProductLogo} alt="sustainology" height={20} />
+      <Image src={IMG_ProductLogo} priority alt="sustainology" height={20} />
     </LinkContainer>
   );
 }

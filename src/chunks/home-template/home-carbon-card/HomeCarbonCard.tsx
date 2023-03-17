@@ -22,6 +22,7 @@ export default function HomeCarbonCard() {
               src={IMG_CarbonCardIllustration}
               alt="carbon card"
               width={500}
+              priority
             />
           </div>
           <div>

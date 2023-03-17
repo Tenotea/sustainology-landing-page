@@ -28,6 +28,7 @@ export default function HomeCarbonCreditsBenefitsChunk() {
                 <Image
                   src={IMG_CarbonOffsettingSingleIllustration}
                   alt="carbon ofsetting"
+                  priority
                 />
               </div>
             </div>

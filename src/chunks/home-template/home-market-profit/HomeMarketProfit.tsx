@@ -40,6 +40,7 @@ export default function HomeMarketProfit() {
               <div className="mx-auto mb-10 w-[80%] max-w-[400px] lg:hidden">
                 <Image
                   src={IMG_MarketProfitIllustration}
+                  priority
                   alt="how to make your carbon credits worth more"
                 />
               </div>
@@ -49,6 +50,7 @@ export default function HomeMarketProfit() {
             </div>
             <div className="hidden lg:block">
               <Image
+                priority
                 src={IMG_MarketProfitIllustration}
                 alt="how to make your carbon credits worth more"
               />
