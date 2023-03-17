@@ -1,4 +1,5 @@
 import Image from "next/image";
+import HomeAuditChecksChunk from "~/chunks/home-template/home-audit-checks-chunk/HomeAuditChecksChunk";
 import HomeBenefitsChunk from "~/chunks/home-template/home-benefits-chunk/HomeBenefitsChunk";
 import HomeCarbonCreditsBenefitsChunk from "~/chunks/home-template/home-carbon-credits-benefits-chunk/HomeCarbonCreditsBenefitsChunk";
 import HomeHeroChunk from "~/chunks/home-template/home-hero-chunk/HomeHeroChunk";
@@ -19,6 +20,7 @@ export default function HomeTemplate() {
       <HomeBenefitsChunk />
       <HomeMarketProfit />
       <HomeCarbonCreditsBenefitsChunk />
+      <HomeAuditChecksChunk />
     </main>
   );
 }
