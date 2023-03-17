@@ -22,4 +22,5 @@ export * as IMG_CarbonOffsettingSingleIllustration from "./carbon-offsetting-sin
 export * as IMG_BenefitMarketOpportunityIllustration from "./benefit-market-oppurtunity-illustration.svg";
 export * as IMG_BenefitIncreasedApplicationIllustration from "./benefit-increased-application-illustration.svg";
 export * as IMG_BenefitFinancialAccessibilityIllustration from "./benefit-financial-accessibility-illustration.svg";
+export * as IMG_MarketProfitIllustration from "./market-profit-illustration.svg";
 // export * as IMG_ from ''

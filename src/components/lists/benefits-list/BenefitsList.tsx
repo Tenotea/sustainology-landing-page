@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { CompanyBenefitsListProps } from "./BenefitsList.types";
+import type { CompanyBenefitsListProps } from "./BenefitsList.types";
 import useCompanyBenefitsList from "./useBenefitsList";
 
 export default function BenefitsList(props: CompanyBenefitsListProps) {

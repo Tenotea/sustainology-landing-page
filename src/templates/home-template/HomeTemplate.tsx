@@ -2,6 +2,7 @@ import Image from "next/image";
 import HomeBenefitsChunk from "~/chunks/home-template/home-benefits-chunk/HomeBenefitsChunk";
 import HomeCarbonCreditsBenefitsChunk from "~/chunks/home-template/home-carbon-credits-benefits-chunk/HomeCarbonCreditsBenefitsChunk";
 import HomeHeroChunk from "~/chunks/home-template/home-hero-chunk/HomeHeroChunk";
+import HomeMarketProfit from "~/chunks/home-template/home-market-profit/HomeMarketProfit";
 import HomePartnersChunk from "~/chunks/home-template/home-partners-chunk/HomePartnersChunk";
 import GuestNavigation from "~/components/navigations/guest-navigation/GuestNavigation";
 import { IMG_EllipseIllustration01 } from "~/images";
@@ -16,6 +17,7 @@ export default function HomeTemplate() {
       <HomeHeroChunk />
       <HomePartnersChunk />
       <HomeBenefitsChunk />
+      <HomeMarketProfit />
       <HomeCarbonCreditsBenefitsChunk />
     </main>
   );
