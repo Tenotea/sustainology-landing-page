@@ -26,4 +26,5 @@ export * as IMG_MarketProfitIllustration from "./market-profit-illustration.svg"
 export * as IMG_VerificationAndAuditIllustration from "./verification-and-audit-illustration.svg";
 export * as IMG_CarbonCardIllustration from "./carbon-card-illustration.png";
 export * as IMG_FracxnLogo from "./fracxn-logo.svg";
+export * as IMG_CarbonConversionIllustration from "./carbon-conversion-illustration.svg";
 // export * as IMG_ from ''

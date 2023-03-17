@@ -2,6 +2,7 @@ import Image from "next/image";
 import HomeAuditChecksChunk from "~/chunks/home-template/home-audit-checks-chunk/HomeAuditChecksChunk";
 import HomeBenefitsChunk from "~/chunks/home-template/home-benefits-chunk/HomeBenefitsChunk";
 import HomeBlogPostsChunk from "~/chunks/home-template/home-blog-posts-chunk/HomeBlogPostsChunk";
+import HomeCarbonBasedToken from "~/chunks/home-template/home-carbon-based-token/HomeCarbonBasedToken";
 import HomeCarbonCard from "~/chunks/home-template/home-carbon-card/HomeCarbonCard";
 import HomeCarbonCreditsBenefitsChunk from "~/chunks/home-template/home-carbon-credits-benefits-chunk/HomeCarbonCreditsBenefitsChunk";
 import HomeHeroChunk from "~/chunks/home-template/home-hero-chunk/HomeHeroChunk";
@@ -21,6 +22,7 @@ export default function HomeTemplate() {
       <HomeHeroChunk />
       <HomePartnersChunk />
       <HomeBenefitsChunk />
+      <HomeCarbonBasedToken />
       <HomeMarketProfit />
       <HomeCarbonCreditsBenefitsChunk />
       <HomeAuditChecksChunk />
