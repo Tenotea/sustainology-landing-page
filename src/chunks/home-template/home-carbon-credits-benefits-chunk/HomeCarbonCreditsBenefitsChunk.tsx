@@ -5,7 +5,6 @@ import CaptionChip from "~/components/misc/caption-chip/CaptionChip";
 import {
   IMG_CarbonOffsettingSingleIllustration,
   IMG_EllipseIllustration05,
-  IMG_EllipseIllustration06,
 } from "~/images";
 
 export default function HomeCarbonCreditsBenefitsChunk() {
@@ -15,11 +14,6 @@ export default function HomeCarbonCreditsBenefitsChunk() {
         src={IMG_EllipseIllustration05}
         alt=""
         className="absolute left-0 -top-1/3 h-[800px]"
-      />
-      <Image
-        src={IMG_EllipseIllustration06}
-        alt=""
-        className="absolute left-0 -right-36 mx-auto"
       />
       <div className="z-[2]">
         <MaxWidthContainer>

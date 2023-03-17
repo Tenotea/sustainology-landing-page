@@ -2,11 +2,19 @@ import Image from "next/image";
 import MaxWidthContainer from "~/components/containers/max-width-container/MaxWidthContainer";
 import FeatureList from "~/components/lists/feature-list/FeatureList";
 import CaptionChip from "~/components/misc/caption-chip/CaptionChip";
-import { IMG_CarbonCardIllustration } from "~/images";
+import {
+  IMG_CarbonCardIllustration,
+  IMG_EllipseIllustration06,
+} from "~/images";
 
 export default function HomeCarbonCard() {
   return (
-    <section className="mt-10 lg:mt-40">
+    <section className="relative mt-10 lg:mt-40">
+      <Image
+        src={IMG_EllipseIllustration06}
+        alt=""
+        className="absolute left-0 right-0 mx-auto w-[800px]"
+      />
       <MaxWidthContainer>
         <div className="grid gap-10 lg:grid-cols-2">
           <div className="flex justify-center pt-10">

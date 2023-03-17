@@ -19,6 +19,7 @@ export default function BenefitsList(props: CompanyBenefitsListProps) {
             <Image
               src={benefit.image}
               alt={benefit.name}
+              priority
               className="h-[50px] w-[50px] md:h-[60px] md:w-[60px] xl:h-[80px] xl:w-[80px]"
             />
           </div>

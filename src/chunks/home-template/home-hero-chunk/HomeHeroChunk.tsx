@@ -22,7 +22,7 @@ export default function HomeHeroChunk() {
         </div>
 
         <div className="absolute bottom-8 right-0 h-[150px] w-[65%] min-[450px]:bottom-0 sm:bottom-0 md:w-[50%] lg:-bottom-8 lg:h-[200px] lg:w-[35%] min-[2000px]:hidden">
-          <Image src={IMG_RobotArmIllustration} alt="" fill />
+          <Image src={IMG_RobotArmIllustration} priority alt="" fill />
         </div>
         <MaxWidthContainer>
           <section className="mt-20 grid gap-20 sm:mt-28 lg:grid-cols-2 lg:gap-10">

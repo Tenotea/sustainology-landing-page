@@ -28,11 +28,13 @@ export default function HomeWorkFlowChunk() {
           </h1>
           <div className="mt-10 w-full">
             <Image
+              priority
               src={IMG_CarbonWorkflowDesktop}
               alt="our customized workflow"
               className="mx-auto hidden h-auto w-10/12 lg:block"
             />
             <Image
+              priority
               src={IMG_CarbonWorkflowMobile}
               alt="our customized workflow"
               className="mx-auto w-full max-w-[80%] min-[500px]:max-w-[60%] min-[800px]:max-w-[40%] lg:hidden lg:max-w-[55%]"

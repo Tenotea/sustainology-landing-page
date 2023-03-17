@@ -10,6 +10,7 @@ export default function PartnersLogoList() {
           <Image
             src={partner.logo}
             alt={partner.name}
+            priority
             className="h-[25px] w-auto sm:h-[20px] md:h-[25px]"
           />
         </li>
