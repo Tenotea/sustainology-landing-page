@@ -6,7 +6,7 @@ import { IMG_CarbonCardIllustration } from "~/images";
 
 export default function HomeCarbonCard() {
   return (
-    <section className="mt-5 mb-40 lg:mt-40">
+    <section className="mt-10 lg:mt-40">
       <MaxWidthContainer>
         <div className="grid gap-10 lg:grid-cols-2">
           <div className="flex justify-center pt-10">

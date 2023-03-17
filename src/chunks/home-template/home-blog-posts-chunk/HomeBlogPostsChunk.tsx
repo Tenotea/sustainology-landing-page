@@ -4,7 +4,7 @@ import PaginationNavigation from "~/components/navigations/pagination-navigation
 
 export default function HomeBlogPostsChunk() {
   return (
-    <section className="mb-20">
+    <section className="mt-28 mb-20 lg:mt-40">
       <MaxWidthContainer>
         <div className="flex items-center justify-between">
           <h1 className="mb-8 max-w-xl text-3xl font-semibold leading-snug text-white sm:text-4xl sm:leading-snug">

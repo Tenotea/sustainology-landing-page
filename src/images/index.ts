@@ -1,6 +1,11 @@
 export * as IMG_ProductLogo from "./product-logo.svg";
 export * as IMG_EllipseIllustration01 from "./ellipse-illustration-01.svg";
 export * as IMG_EllipseIllustration02 from "./ellipse-illustration-02.svg";
+export * as IMG_EllipseIllustration03 from "./ellipse-illustration-03.svg";
+export * as IMG_EllipseIllustration04 from "./ellipse-illustration-04.svg";
+export * as IMG_EllipseIllustration05 from "./ellipse-illustration-05.svg";
+export * as IMG_EllipseIllustration06 from "./ellipse-illustration-06.svg";
+export * as IMG_EllipseIllustration07 from "./ellipse-illustration-07.svg";
 export * as IMG_CarbonCalculatorIllustration from "./carbon-calculator-illustration.svg";
 export * as IMG_CarbonCreditSupplierIllustration from "./carbon-credit-supplier-illustration.svg";
 export * as IMG_EmitterIndividualIllustration from "./emitter-individual-illustration.svg";
@@ -30,4 +35,6 @@ export * as IMG_CarbonConversionIllustration from "./carbon-conversion-illustrat
 export * as IMG_CarbonWorkflowDesktop from "./carbon-workflow-desktop.svg";
 export * as IMG_CarbonWorkflowMobile from "./carbon-workflow-mobile.svg";
 export * as IMG_CapaIllustration from "./capa-illustration.svg";
+export * as IMG_CarbonPolygonIllustration from "./carbon-polygon-illustration.svg";
+export * as IMG_CarbonPolygonPartialIllustration from "./carbon-polygon-partial-illustration.svg";
 // export * as IMG_ from ''
